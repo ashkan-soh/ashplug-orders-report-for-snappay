@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ashplug Orders Report for Snappay\n"
+"POT-Creation-Date: 2026-07-10 10:55+0330\n"
+"PO-Revision-Date: 2026-07-10 11:12+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ashplug-orders-report-for-snappay.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-orders-report.php:39
+msgid "Customer"
+msgstr "مشتری"
+
+#: includes/admin/class-orders-report.php:40
+msgid "Order ID"
+msgstr "شماره سفارش"
+
+#: includes/admin/class-orders-report.php:41
+msgid "Order Status"
+msgstr "وضعیت سفارش"
+
+#: includes/admin/class-orders-report.php:42
+msgid "Transaction ID"
+msgstr "رسید تراکنش"
+
+#: includes/admin/class-orders-report.php:43
+msgid "Paid Date"
+msgstr "تاریخ پرداخت"
+
+#: includes/admin/class-orders-report.php:44
+msgid "Amount"
+msgstr "مبلغ سفارش"
+
+#: includes/admin/class-orders-report.php:45
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: includes/admin/class-orders-report.php:135
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: includes/admin/class-orders-report.php:137
+msgid "Refunded"
+msgstr "مرجوع شده"
+
+#: includes/admin/class-orders-report.php:139
+msgid "Partially refunded"
+msgstr "دارای مرجوعی"
+
+#: includes/admin/class-orders-report.php:241
+msgid "First Snappay order date:"
+msgstr "تاریخ اولین سفارش ثبت شده با درگاه اسنپ‌پی:"
+
+#: includes/admin/class-orders-report.php:246
+msgid "Total Snappay orders in store:"
+msgstr "تعداد کل سفارش‌ها:"
+
+#: includes/admin/class-orders-report.php:251
+msgid "Snappay orders in report:"
+msgstr "سفارش‌های موجود در گزارش:"
+
+#. Plugin Name of the plugin/theme
+#: includes/class-admin-menu.php:28
+msgid "Ashplug Orders Report for Snappay"
+msgstr "افزونه مدیریت اقساط اسنپ‌پی اش‌پلاگ"
+
+#: includes/class-admin-menu.php:29
+msgid "Ashplug Snappay"
+msgstr "مدیریت پرداخت‌های اسنپ‌پی"
+
+#: includes/class-admin-menu.php:39 includes/class-admin-menu.php:67
+msgid "Orders Report for Snappay Gateway"
+msgstr "گزارش سفارش‌های ثبت شده با درگاه اسنپ‌پی"
+
+#: includes/class-admin-menu.php:40
+msgid "Orders Report"
+msgstr "گزارش سفارش‌ها"
+
+#: includes/class-admin-menu.php:48 includes/class-admin-menu.php:49
+msgid "Pro Features"
+msgstr "امکانات نسخه حـرفه‌ای"
+
+#: includes/class-admin-menu.php:59 includes/class-admin-menu.php:98
+msgid "You do not have permission to access this page."
+msgstr "شما اجازه دسترسی به این صفحه را ندارید."
+
+#: includes/class-admin-menu.php:69
+msgid ""
+"This report shows WooCommerce orders paid through the Snappay gateway. Use the "
+"table pagination to browse all matching orders."
+msgstr "همه سفارش‌ها از اولین تاریخ ثبت شده تا به امروز در دسترس شما هستند. "
+
+#: includes/class-admin-menu.php:81
+msgid "Plugin notice"
+msgstr "اطلاعیه افزونه"
+
+#: includes/class-admin-menu.php:83
+msgid "Read-only Report"
+msgstr "گزارش سفارش‌ها"
+
+#: includes/class-admin-menu.php:85
+msgid ""
+"This plugin provides a complete read-only orders report for payments made "
+"through the Snappay gateway. A separate Pro plugin adds financial workflows such "
+"as installment schedules, commission calculations, Jalali filters, and export "
+"tools."
+msgstr ""
+"این افزونه یک گزارش از سفارش‌های پرداخت‌شده از طریق درگاه اسنپ‌پی ارائه می‌دهد. "
+"افزونه حرفه‌ای مدیریت اقساط اسنپ‌پی اش‌پلاگ را با امکاناتی مانند جدول اقساط، محاسبه "
+"خودکار کمیسیون/کارمزد، فیلترهای تاریخ شمسی، محاسبه مبلغ تسویه هر دوره و خروجی "
+"اکسل گزارش‌ها می‌توانید تهیه کنید."
+
+#: includes/class-admin-menu.php:89
+msgid "View Pro Features"
+msgstr "ویژگی‌های نسخه حرفه‌ای"
+
+#: includes/class-admin-menu.php:106
+msgid "Ashplug Pro"
+msgstr "نسخه حرفه‌ای اش‌پلاگ"
+
+#: includes/class-admin-menu.php:107
+msgid "Advanced financial reports for Snappay orders"
+msgstr "افزونه مدیریت پرداخت‌ها و اقساط اسنپ‌پی اش‌پلاگ"
+
+#: includes/class-admin-menu.php:109
+msgid ""
+"The Pro version is built for WooCommerce stores that need a clearer financial "
+"view of orders paid through the Snappay gateway."
+msgstr ""
+"تمرکز افزونه روی یک کار مشخص است: تبدیل اطلاعات پراکنده سفارش‌ها به یک گزارش مالی "
+"سریع، دقیق و قابل استفاده."
+
+#: includes/class-admin-menu.php:113
+msgid "View Details on Ashplug.ir"
+msgstr "بــررسی و خـــرید"
+
+#: includes/class-admin-menu.php:117
+msgid "Back to Orders Report"
+msgstr "بازگشت به گزارش سفارش‌ها"
+
+#: includes/class-admin-menu.php:122
+msgid "Snappay payment models"
+msgstr "پشتیبانی از ۴ مدل پرداخت اسنپ‌پی"
+
+#: includes/class-admin-menu.php:123
+msgid "contract-based commission"
+msgstr "تعیین کمیسیون براساس قرارداد اسنپ‌پی"
+
+#: includes/class-admin-menu.php:124
+msgid "monthly settlement basis"
+msgstr "مبنای زمان تسویه ماهانه"
+
+#: includes/class-admin-menu.php:128
+msgid "Pro features"
+msgstr "ویژگی‌های نسخه حرفه‌ای"
+
+#: includes/class-admin-menu.php:133
+msgid "Financial reconciliation views"
+msgstr "گزارش یکپارچه سفارش‌ها"
+
+#: includes/class-admin-menu.php:134
+msgid ""
+"Review Snappay payment data in finance-focused views designed for reconciliation "
+"and store operations."
+msgstr "تمام سفارش‌های ثبت‌شده با درگاه اسنپ‌پی را در یک جدول فیلترپذیر ببینید."
+
+#: includes/class-admin-menu.php:138
+msgid "Jalali date filters"
+msgstr " انتخاب مدل تسویه اسنپ‌پی"
+
+#: includes/class-admin-menu.php:139
+msgid ""
+"Filter reports with Persian calendar date ranges built for local store workflows."
+msgstr "پشتیبانی از ۴ مدل پرداخت اسنپ‌پی، انتخاب هر گزینه در بخش تنظیمات"
+
+#: includes/class-admin-menu.php:143
+msgid "Installment schedule"
+msgstr "جدول زمان‌بندی اقساط"
+
+#: includes/class-admin-menu.php:144
+msgid ""
+"Split successful Snappay payments into monthly installment rows for easier "
+"follow-up."
+msgstr ""
+"اقساط سفارش‌های مؤثر و مبلغ قابل تسویه هر ماه را برای دوره انتخابی به‌صورت شفاف "
+"ببینید."
+
+#: includes/class-admin-menu.php:148
+msgid "Commission calculation"
+msgstr "محاسبه خودکار کمیسیون/کارمزد"
+
+#: includes/class-admin-menu.php:149
+msgid ""
+"Calculate commission, tax, final receivable amount, and per-installment values."
+msgstr ""
+"مبلغ کمیسیون و کارمزد هر سفارش را بدون فرمول‌نویسی یا فایل جانبی مشاهده کنید."
+
+#: includes/class-admin-menu.php:153
+msgid "Refund and cancellation insight"
+msgstr "تفکیک آیتم‌های مرجوعی/کنسلی"
+
+#: includes/class-admin-menu.php:154
+msgid ""
+"Separate cancelled, fully refunded, and partially refunded paid orders in "
+"reports."
+msgstr ""
+"سفارش‌های لغوشده، کاملاً مرجوع‌شده و دارای مرجوعی را در گزارش‌ها جداگانه بررسی کنید."
+
+#: includes/class-admin-menu.php:158
+msgid "Export-ready reporting"
+msgstr "دانلود خروجی برای اکسل"
+
+#: includes/class-admin-menu.php:159
+msgid ""
+"Prepare practical financial reports for review, reconciliation, and store "
+"operations."
+msgstr ""
+"گزارش‌های مالی کاربردی را برای بررسی، تطبیق حساب‌ها و عملیات فروشگاه آماده کنید."
+
+#: includes/class-admin-menu.php:176
+msgid "Independent plugin notice:"
+msgstr "اطلاعیه افزونه مستقل:"
+
+#: includes/class-admin-menu.php:177
+msgid ""
+"This plugin is independently developed and is not affiliated with, endorsed by, "
+"or sponsored by Snappay or WooCommerce."
+msgstr ""
+"این افزونه به‌صورت مستقل توسعه داده شده و هیچ‌گونه وابستگی، تأییدیه یا حمایت رسمی "
+"از سوی اسنپ‌پی یا ووکامرس ندارد."
+
+#: includes/class-wsom.php:40
+msgid ""
+"Ashplug Orders Report for Snappay requires WooCommerce to be installed and "
+"active."
+msgstr ""
+"افزونه مدیریت اقساط اسنپ‌پی اش‌پلاگ برای اجرا به نصب و فعال بودن ووکامرس نیاز دارد."
+
+#: includes/class-wsom.php:47
+msgid ""
+"Ashplug Orders Report for Snappay requires a compatible Snappay payment gateway "
+"plugin to be installed and active."
+msgstr ""
+"افزونه مدیریت اقساط اسنپ‌پی اش‌پلاگ برای اجرا به افزونه درگاه پرداخت اسنپ‌پی، "
+"نصب‌شده و فعال نیاز دارد."
+
+#. Plugin URI of the plugin/theme
+msgid "https://ashplug.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Read-only admin report for WooCommerce orders paid through the Snappay gateway."
+msgstr ""
+"گزارش مدیریتی فقط‌خواندنی برای سفارش‌های ووکامرس که از طریق درگاه اسنپ‌پی پرداخت "
+"شده‌اند."
+
+#. Author of the plugin/theme
+msgid "Ashkan Sohrevardi"
+msgstr "اشکان سهروردی"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/ashkan-soh"
+msgstr ""
+
+#~ msgid "installment schedule"
+#~ msgstr "زمان پرداخت اقساط"
+
+#~ msgid "commission ready"
+#~ msgstr "تعیین نوع کمیسیون/کارمزد اسنپ‌پی"

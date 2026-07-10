@@ -1,0 +1,25 @@
+Ashplug Orders Report for Snappay
+Third-Party Notices
+======================================
+
+This plugin includes third-party components that are licensed under 
+GPL-compatible licenses in accordance with WordPress.org guidelines.
+
+-----------------------------------------------------------------------
+
+1. Vazirmatn Font
+-----------------
+
+Project: Vazirmatn
+Author: Rastikerdar
+License: SIL Open Font License 1.1 (OFL-1.1)
+License URL: https://scripts.sil.org/OFL
+Source: https://github.com/rastikerdar/vazirmatn
+
+The full text of the SIL Open Font License is included in:
+licenses/OFL.txt
+
+-----------------------------------------------------------------------
+
+All third-party components included in this plugin are compatible with 
+the GNU General Public License v2 or later.
